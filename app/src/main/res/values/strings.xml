@@ -1,14 +1,18 @@
 <resources>
-    <string name="app_name">Mobpro 1</string>
+    <string name="app_name">ResepKita</string>
     <string name="list_kosong">Belum ada data</string>
     <string name="x_diklik">%1$s Diklik</string>
     <string name="tambah_resep">Tambah Resep</string>
+    <string name="info_resep">Informasi Resep</string>
+    <string name="nama">Nama Pengunggah Resep</string>
+    <string name="makanan">Makanan</string>
+    <string name="minuman">Minuman</string>
     <string name="judul">Judul</string>
     <string name="isi_resep">Isi Resep</string>
     <string name="kembali">Kembali</string>
     <string name="simpan">Simpan</string>
     <string name="edit_resep">Ubah Resep</string>
-    <string name="invalid">Nama, Judul dan Isi Resep tidak boleh kosong.</string>
+    <string name="invalid">Nama, Judul dan Isian Detail Resep tidak boleh kosong.</string>
     <string name="lainnya">Opsi Lainnya</string>
     <string name="hapus">Hapus</string>
     <string name="pesan_hapus">Hapus Resep Ini?</string>
